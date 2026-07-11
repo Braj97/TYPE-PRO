@@ -1,0 +1,6 @@
+{
+  "name": "Exam Typing Practice & Analytics",
+  "description": "An advanced typing application designed for competitive exams (SSC, Bank, Railways) featuring custom speed and accuracy goals, progress tracking, detailed analytics with visual charts, and a dynamic leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
